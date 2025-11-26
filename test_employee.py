@@ -10,9 +10,9 @@ def test_get_employee_info():
     salary = 55000
     # Expected result
     expected_output = (
-        " Employee Name : Jhon Doe\n"
-        " Employee ID : E101\n"
-        " Department : IT\n"
+        " Employee Name : Jhon Doe,\n"
+        " Employee ID : E101,\n"
+        " Department : IT,\n"
         " Salary : 55000"
     )
     # Assertion
